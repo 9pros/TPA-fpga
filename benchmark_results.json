@@ -1,0 +1,20 @@
+{
+  "udp": {
+    "protocol": "udp",
+    "packets_sent": 1100,
+    "packets_received": 786,
+    "elapsed": 2.067976713180542,
+    "throughput": 380.0816493678666,
+    "bandwidth_mbps": 0.3223092386639509,
+    "packet_loss": 28.54545454545454
+  },
+  "tcp": {
+    "protocol": "tcp",
+    "packets_sent": 1100,
+    "packets_received": 1100,
+    "elapsed": 2.0569040775299072,
+    "throughput": 534.7842964660592,
+    "bandwidth_mbps": 0.45349708340321826,
+    "packet_loss": 0.0
+  }
+}
