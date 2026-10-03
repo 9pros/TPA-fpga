@@ -1,0 +1,6 @@
+{
+  "packet_packing": true,
+  "receipt_generation": true,
+  "network_simulation": true,
+  "checksum": true
+}
